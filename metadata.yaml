@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '33757'
     url: http://www.gutenberg.org/2009/agents/33757
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29186#National-Strategy-for-Combating-TerrorismSeptember-2006
 gutenberg_issued: '2009-06-21'
 gutenberg_type: Text
 identifiers:
